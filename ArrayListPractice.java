@@ -139,9 +139,6 @@ public class ArrayListPractice {
 		 System.out.println(queue.poll());
 		 System.out.println("after removing"+  queue);
 		 
-		 
-		
-		
 		
 	}
 
